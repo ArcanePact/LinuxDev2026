@@ -1,0 +1,10 @@
+@ begin= 1, end= 12, step= 1, i= 5
+@ begin= 1, end= 12, step= 1, i= 10
+@ begin= -100, end= 100, step= 3, i= -19
+@ begin= -100, end= 100, step= 3, i= -16
+@ begin= -100, end= 100, step= 3, i= -13
+@ begin= -100, end= 100, step= 3, i= -10
+@ begin= -100, end= 100, step= 3, i= -7
+@ begin= -100, end= 100, step= 3, i= -4
+@ begin= -100, end= 100, step= 3, i= -1
+@ begin= -100, end= 100, step= 3, i= 2
